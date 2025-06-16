@@ -1,2 +1,3 @@
 # Projeto-Galeria-de-Arte
 Galeria de Arte Online desenvolvida em React, com layout responsivo e visual elegante. Permite explorar obras, conhecer artistas, visualizar destaques do mês e gerenciar o acervo. O projeto utiliza rotas para navegação, fundo artístico e transparências, proporcionando uma experiência imersiva ao usuário.
+Para rodar o projeto, é necessário ter o XAMPP instalado e em execução, pois o backend utiliza PHP e MySQL. Inicie o Apache e o MySQL pelo painel do XAMPP. Certifique-se de que os arquivos PHP estejam na pasta htdocs e o banco de dados esteja importado no phpMyAdmin. Depois, rode o frontend React normalmente.
